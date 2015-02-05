@@ -2,6 +2,8 @@
 public class ClassTeste {
 
 	
-	public int teste = 0;
+	public int jose = 0;
 	
+	
+	public int fernando = 10;
 }
